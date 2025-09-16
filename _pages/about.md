@@ -32,7 +32,7 @@ Awards & Recognition
 Research & Projects
 ------
 - **ISAC Drone Sensing** – Exploring integrated sensing and communication for drone detection and countermeasures. 
-- **Smart Contract Vulnerability Detection** – Building datasets of 50,000 Ethereum contracts and applying CNN/DNN models with XAI (LIME/SHAP) and adversarial defense (SAP).  
+- **Smart Contract Vulnerability Detection** – Utilizing datasets of 50,000 Ethereum contracts and applying CNN/DNN models with XAI (LIME/SHAP) and adversarial defense (SAP).  
 - **Machine Unlearning (SISA framework)** – Developing privacy-preserving ML pipelines using unlearning techniques for security-sensitive domains.   
 - **Blockchain Wallet Security** – Applying static analysis (SonarQube) on Go-based mobile blockchain applications.   
 
