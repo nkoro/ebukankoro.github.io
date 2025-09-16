@@ -18,13 +18,12 @@ repository               : "nkoro.github.io/ebukankoro.github.io/"
 author:
   avatar           : "tuofficial pic.jpg"
   name             : "Ebuka"
-  pronouns         :  
   bio              : "Ebuka is a PhD student in Information Technology at Towson University. He obtained a Master’s in IT Convergence Engineering from South Korea in 2024. His research focuses on cybersecurity in immersive technologies."
   location         : "USA"
   employer         : "Towson University"
-  uri              : 
-  email            : "nkoroebuka@gmail.com"
   LinkedIn         : "https:/www.linkedin.com/in/ebuka-nkoro-40b9a2160/"
+  email            : "nkoroebuka@gmail.com"
+  
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=UFd161gAAAAJ&hl=en"
